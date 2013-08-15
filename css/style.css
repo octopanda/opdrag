@@ -1,0 +1,6 @@
+	*{margin:0;border:0;padding:0;color:#333;font:normal 12px/14px "microsoft yahei" arial simsun;}
+	.area{margin:0 auto;width:960px;overflow:hidden;zoom:1;background-color:khaki;}
+	.area-a{float:left;background-color:red}
+	.area-b{float:right;background-color:green}
+	.item{border:1px solid #333;width:100px;height:100px;overflow:hidden;background-color:#f1f1f1;text-align:center;margin:0 5px 10px;}
+	.item .hd h1{line-height:20px;font-size:13px;font-weight:bold;cursor:pointer;}
